@@ -39,7 +39,7 @@ An intelligent resume analyzer that uses **Google Gemini AI** to evaluate resume
 
 ## 📸 Screenshots
 ![Screenshot 2025-07-02 123353](https://github.com/user-attachments/assets/db8fc774-cefe-40a8-a005-96a23ace1b3c)
-![Screenshot 2025-07-02 123427](https://github.com/user-attachments/assets/32b96666-cf55-4a54-b786-b1e9fe3111d1)
+
 
 ### 📥 Upload Resumes
 ![Screenshot 2025-07-02 123427](https://github.com/user-attachments/assets/32b96666-cf55-4a54-b786-b1e9fe3111d1)
